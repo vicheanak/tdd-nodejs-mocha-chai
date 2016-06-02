@@ -3,6 +3,7 @@ Test Driven Development With NodeJS, Mocha & Chai
 
 ```
 git clone git@github.com:vicheanak/tdd-nodejs-mocha-chai
+```
 
 ```
 cd tdd-nodejs-mocha-chai
